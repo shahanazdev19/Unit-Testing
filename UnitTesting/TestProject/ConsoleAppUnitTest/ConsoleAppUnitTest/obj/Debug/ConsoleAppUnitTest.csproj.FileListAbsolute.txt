@@ -1,0 +1,7 @@
+D:\UnitTesting\TestProject\ConsoleAppUnitTest\ConsoleAppUnitTest\bin\Debug\ConsoleAppUnitTest.exe.config
+D:\UnitTesting\TestProject\ConsoleAppUnitTest\ConsoleAppUnitTest\bin\Debug\ConsoleAppUnitTest.exe
+D:\UnitTesting\TestProject\ConsoleAppUnitTest\ConsoleAppUnitTest\bin\Debug\ConsoleAppUnitTest.pdb
+D:\UnitTesting\TestProject\ConsoleAppUnitTest\ConsoleAppUnitTest\obj\Debug\ConsoleAppUnitTest.csprojAssemblyReference.cache
+D:\UnitTesting\TestProject\ConsoleAppUnitTest\ConsoleAppUnitTest\obj\Debug\ConsoleAppUnitTest.csproj.CoreCompileInputs.cache
+D:\UnitTesting\TestProject\ConsoleAppUnitTest\ConsoleAppUnitTest\obj\Debug\ConsoleAppUnitTest.exe
+D:\UnitTesting\TestProject\ConsoleAppUnitTest\ConsoleAppUnitTest\obj\Debug\ConsoleAppUnitTest.pdb
